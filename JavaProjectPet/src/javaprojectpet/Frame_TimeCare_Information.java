@@ -516,8 +516,8 @@ public void showTable(){
         hashMap.put(13, giatien);
         
       String ToEmail = jTextFieldToEmail.getText();
-        String FromEmail = "tranhaiphong2016fpt@gmail.com";//studyviral2@gmail.com
-        String FromEmailPassword = "<anhdangshit>27854";//You email Password from you want to send email
+        String FromEmail = "inputyouremail@gmail.com";//studyviral2@gmail.com
+        String FromEmailPassword = "<as>27854";//You email Password from you want to send email
         String Subjects = "hóa đơn đặt lịch";
         
        Properties properties = new Properties();
